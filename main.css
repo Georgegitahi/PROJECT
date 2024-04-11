@@ -1,0 +1,94 @@
+.container {
+    width: 50%; /* Adjust width as needed */
+    margin: 0 auto; /* Center the container */
+    margin-top: 200px;
+  }
+  
+  #car_form {
+    margin-bottom: 300px; /* Add some space below the form */
+  }
+
+  label {
+    display: block; /* Display labels as block elements */
+    margin-bottom: 20px; /* Add space between labels */
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%; /* Make text inputs and textareas full-width */
+    padding: 8px; /* Add padding for better readability */
+    margin-bottom: 10px; /* Add space between inputs */
+    border: 1px solid #ccc; /* Add border for better visibility */
+    border-radius: 4px; /* Add rounded corners */
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff; /* Set button background color */
+    color: #fff; /* Set button text color */
+    padding: 10px 20px; /* Add padding for better appearance */
+    border: none; /* Remove button border */
+    border-radius: 4px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3; /* Change button background color on hover */
+  }
+  
+  .cards {
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove padding */
+  }
+  
+  .cards li {
+    background-color: #f9f9f9; /* Set background color for each card */
+    padding: 10px; /* Add padding to each card */
+    margin-bottom: 10px; /* Add space between cards */
+    border: 1px solid #ccc; /* Add border for better visibility */
+    border-radius: 4px; /* Add rounded corners */
+  }
+
+
+  .card {
+    background-color: #f9f9f9; /* Set background color for the card */
+    padding: 10px; /* Add padding to the card */
+    margin-bottom: 10px; /* Add space between cards */
+    border: 1px solid #ccc; /* Add border for better visibility */
+    border-radius: 4px; /* Add rounded corners */
+  }
+  
+  .card img {
+    max-width: 100%; /* Ensure images don't exceed the width of their container */
+    border-radius: 4px; /* Add rounded corners to images */
+  }
+  
+  .card .content {
+    padding: 10px; /* Add padding to the content section */
+  }
+  
+  .card h4 {
+    margin-top: 0; /* Remove margin from the top of the heading */
+  }
+  
+  .card p {
+    margin-bottom: 5px; /* Add space between paragraphs */
+  }
+  
+
+
+  .container {
+    width: 100%; /* Adjust width as needed */
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .container > * {
+    flex: 1 1 300px; /* Adjust item width and minimum size as needed */
+    margin-right: 20px; /* Add space between items */
+  }
+  
+  .container > *:last-child {
+    margin-right: 0; /* Remove margin from the last item */
+  }
+  
+  /* Rest of your CSS rules */

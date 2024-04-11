@@ -1,0 +1,49 @@
+{
+  "carsData": [
+    {
+      "id": "1",
+      "name": "Mercedes",
+      "comments": "wow nice car",
+      "model": "Emg Gle 63S",
+      "imageURL": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyWLTjG8y7WUxTm1LWauJqyNYjjX_VvTrPw&s",
+      "Description": "The Mercedes-Benz AMG GLE 63 S has 1 Petrol Engine on offer. The Petrol engine is 3982 cc . It is available with Automatic transmission .",
+      "price": 1700000
+    },
+    {
+      "id": "2",
+      "name": "BMW",
+      "comments": "cool whip",
+      "model": "X5 2018",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjT-kQTczRUrx-NNyfqhT10TSXpUfX3ocXKO2ibNuHg&s",
+      "Description": " The BMW X5 features the 8-speed Steptronic sport transmission which has given the drivers more control of the vehicle.  “Ultimate Driving Machine”. ",
+      "price": 7000000
+    },
+    {
+      "id": "3",
+      "name": "Vauxhall Insignia",
+      "comments": "io gari ni noma",
+      "model": "X5 2018",
+      "imageURL": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPNXm74MMGVOQWJjtTBQulpVY-A6CXVE4Fz4oF52CBdw&s",
+      "Description": " It's a comfortable cruiser and quiet both in wind and road noise, and the 2.0-litre petrol is quiet, refined and relatively pacey. ",
+      "price": 2000000
+    },
+    {
+      "id": "4",
+      "name": "Audi",
+      "comments": "cheki dinga",
+      "model": "Rs6",
+      "imageURL": "https://media.ed.edmunds-media.com/audi/rs-6/2024/oem/2024_audi_rs-6_wagon_performance_fq_oem_1_1600.jpg ",
+      "Description": " The Audi RS6 Avant Performance and new-for-2025 Audi RS6 Avant GT are powered by a twin-turbocharged 4.0-liter V-8 rated for 621 horsepower and 627 pound-feet of torque ",
+      "price": 14000000
+    },
+    {
+      "id": "5",
+      "name": "Porsche",
+      "comments": "nataka ii",
+      "model": "Porsche Cayenne",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmL0Uun71oD2ru-uIwVGspVV3tnhQrkh0RlCPSlvzEQ&s ",
+      "Description": "It is a luxury crossover SUV and has been described as both a full-sized and a mid-sized vehicle. ",
+      "price": 18000000
+    }
+  ]
+}
